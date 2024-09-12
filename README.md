@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohan Krishna</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **E-wonder Trip**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python,C,Java,HTML,CSS,JavaScript**
+- 💬 Ask me about **Python,C,C++,Java,HTML,CSS,JavaScript,React,SQL**
 
 - 📫 How to reach me **mohankrishnathalla6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/mohan137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohan137" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohan-krishna-thalla-a423a3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mohan137" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
