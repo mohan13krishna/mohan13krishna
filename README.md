@@ -11,10 +11,7 @@
   - CodeChef: Your CodeChef Profile
   - HackerRank: Your HackerRank Profile
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- Add your existing icons and tools here -->
-</p>
+
 
 
 
