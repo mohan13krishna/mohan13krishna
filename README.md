@@ -1,4 +1,4 @@
-# FOLLOW FOR BASIC PROJECTS, HACKERRANK SOLUTIONS AND OTHER PLATFORM SOLUTIONS. YOU CAN ASK ME.
+
 <h1 align="center">Hi 👋, I'm Mohan Krishna</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
