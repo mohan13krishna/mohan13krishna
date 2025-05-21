@@ -11,7 +11,7 @@
   <a href="https://github.com/mohan13krishna">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto: mohankrishnathalla6@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/your-twitter">
@@ -23,15 +23,13 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const mohanKrishna = {
-  education: "B.Tech in Computer Science & Engineering (3rd year @ ACE Engineering College)",
-  passions: ["Full Stack Development", "AI/ML", "Problem Solving"],
-  currentlyLearning: ["Advanced React", "System Design", "Cloud Architecture"],
-  lookingFor: "Internship opportunities and exciting collaborations",
-  quote: "The only way to do great work is to love what you do."
-};
-```
+- 🎓 B.Tech in Computer Science & Engineering student at ACE Engineering College (3rd year)
+- 💻 Passionate about Full Stack Development with a focus on modern web technologies
+- 🤖 Exploring AI/ML and its applications in web development
+- 🚀 Always learning new technologies and methodologies
+- 🔍 Actively seeking internship and collaboration opportunities
+- 💡 Interested in solving real-world problems through innovative solutions
+- ✨ Motivated by the quote: "The only way to do great work is to love what you do."
 
 <details>
 <summary>🎯 My Professional Goals</summary>
@@ -125,14 +123,12 @@ const mohanKrishna = {
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohan13krishna&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="95%" />
 </div>
 
-## 📌 Featured Projects
+## 🚀 My Projects
 
 <div align="center">
-  <a href="https://github.com/mohan13krishna/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan13krishna&repo=project1&theme=tokyonight" alt="Featured Project 1" width="47%" />
-  </a>
-  <a href="https://github.com/mohan13krishna/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan13krishna&repo=project2&theme=tokyonight" alt="Featured Project 2" width="47%" />
+  <p>I'm working on exciting projects in web development, machine learning, and more. Check out my repositories to see what I've been building!</p>
+  <a href="https://github.com/mohan13krishna?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
 </div>
 
@@ -142,39 +138,7 @@ const mohanKrishna = {
   <img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
-## 🌟 My Coding Journey
 
-```mermaid
-graph TD
-    A[Started Coding] --> B[Learned HTML/CSS]
-    B --> C[JavaScript & Frontend Frameworks]
-    C --> D[Backend Development]
-    D --> E[Full Stack Projects]
-    E --> F[Data Science & AI/ML]
-    F --> G[DevOps & Cloud]
-    G --> H[Future: Software Architect]
-    
-    style A fill:#20232a,color:#61dafb,stroke:#61dafb
-    style B fill:#20232a,color:#61dafb,stroke:#61dafb
-    style C fill:#20232a,color:#61dafb,stroke:#61dafb
-    style D fill:#20232a,color:#61dafb,stroke:#61dafb
-    style E fill:#20232a,color:#61dafb,stroke:#61dafb
-    style F fill:#20232a,color:#61dafb,stroke:#61dafb
-    style G fill:#20232a,color:#61dafb,stroke:#61dafb
-    style H fill:#20232a,color:#61dafb,stroke:#61dafb
-```
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   ████████████▓░░░░░░░░░   50.25 % 
-HTML/CSS     ███████▒░░░░░░░░░░░░░░   30.12 % 
-Python       ████▒░░░░░░░░░░░░░░░░░   15.43 % 
-Java         ▓░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Other        ▒░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-<!--END_SECTION:waka-->
 
 ## 📫 Connect With Me
 
