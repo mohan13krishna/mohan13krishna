@@ -11,15 +11,10 @@
   <a href="https://github.com/mohan13krishna">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mohankrishnathalla6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </p>
-
-<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="300">
   
 </div>
 
@@ -50,8 +45,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🛠️ Tech Stack
-
-<img align="right" alt="Learning Programming" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <details open>
 <summary>Languages</summary>
@@ -150,23 +143,15 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300">
-  
   <p>
     <a href="https://linkedin.com/in/mohan-krishna-thalla-a423a3301">
       <img src="https://img.shields.io/badge/-Mohan%20Krishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:mohankrishnathalla6@gmail.com">
       <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/mohan13krishna">
       <img src="https://img.shields.io/badge/-mohan13krishna-181717?style=flat&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://www.buymeacoffee.com/mohan13krishna">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
     </a>
   </p>
 </div>
