@@ -18,10 +18,14 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
+<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="300">
   
 </div>
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 B.Tech in Computer Science & Engineering student at ACE Engineering College (3rd year)
 - 💻 Passionate about Full Stack Development with a focus on modern web technologies
@@ -46,6 +50,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🛠️ Tech Stack
+
+<img align="right" alt="Learning Programming" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 <details open>
 <summary>Languages</summary>
@@ -126,6 +132,7 @@
 ## 🚀 My Projects
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300">
   <p>I'm working on exciting projects in web development, machine learning, and more. Check out my repositories to see what I've been building!</p>
   <a href="https://github.com/mohan13krishna?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
@@ -143,6 +150,8 @@
 ## 📫 Connect With Me
 
 <div align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300">
+  
   <p>
     <a href="https://linkedin.com/in/mohan-krishna-thalla-a423a3301">
       <img src="https://img.shields.io/badge/-Mohan%20Krishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
