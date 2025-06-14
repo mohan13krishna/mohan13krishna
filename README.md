@@ -144,7 +144,7 @@
 
 <div align="center">
   <p>
-    <a href="https://linkedin.com/in/mohan-krishna-thalla-a423a3301">
+    <a href="https://linkedin.com/in/mohan-krishna-thalla">
       <img src="https://img.shields.io/badge/-Mohan%20Krishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="mailto:mohankrishnathalla6@gmail.com">
