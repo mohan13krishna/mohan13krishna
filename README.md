@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Computer+Science+Student;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/mohan-krishna-thalla-a423a3301">
+  <a href="https://linkedin.com/in/mohan-krishna-thalla">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mohan13krishna">
