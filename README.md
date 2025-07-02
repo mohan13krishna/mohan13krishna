@@ -20,13 +20,12 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ## <div align="center">👨‍💻 About Me</div>
 
-<div align="center">
+<div align="left">
 
 🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (Final Year)  
 💻 **Full Stack Developer** passionate about creating innovative web solutions  
@@ -42,7 +41,7 @@
 <summary><div align="center">🎯 My Professional Journey & Goals</div></summary>
 <br>
 
-<div align="center">
+<div align="left">
 
 **Current Focus:**
 - 🏗️ Building scalable full-stack applications with modern frameworks
@@ -60,7 +59,6 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center">🛠️ Tech Arsenal</div>
 
@@ -98,7 +96,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center">📊 GitHub Analytics</div>
 
@@ -123,7 +120,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center">🚀 Featured Projects</div>
 
@@ -144,7 +140,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center">📫 Let's Connect & Collaborate</div>
 
@@ -166,7 +161,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <div align="center">🎯 2025 Goals</div>
 
@@ -185,8 +179,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 ### 👀 Profile Visitors
 
 <img src="https://profile-counter.glitch.me/mohan13krishna/count.svg" alt="Visitor Count" />
@@ -203,3 +195,4 @@
 <p><sub>💡 <strong>Pro tip:</strong> Star ⭐ my repositories if you find them useful!</sub></p>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
