@@ -91,7 +91,6 @@
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20Contribution%20Journey&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&title_color=ffffff&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" width="95%"/>
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=mohan13krishna&theme=dark&background=000000&stroke=00ff00&color=00ff00&hide_border=true" alt="3D Contribution Graph" width="95%"/>
 
 ### 🔥 Stats Overview
 <p>
@@ -143,25 +142,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<details>
-<summary>⚡ Recent Activity</summary>
-
-- 🔥 Pushed new commits to **[Project Name]**
-- ⭐ Starred **[Interesting Repository]**
-- 🐛 Fixed critical bug in **[Repository Name]**
-- 📝 Updated documentation for **[Project Name]**
-- 🤝 Collaborated on **[Open Source Project]**
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect & Collaborate
 
