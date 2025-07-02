@@ -99,7 +99,7 @@
 <div align="center">
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20Contribution%20Journey&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&title_color=ffffff&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" width="95%"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20Contribution%20Journey&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&title_color=ffffff&area=true&hide_border=true&theme=github-dark&v=2)
 
 <br><br>
 
