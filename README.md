@@ -183,9 +183,6 @@
 
 <img src="https://profile-counter.glitch.me/mohan13krishna/count.svg" alt="Visitor Count" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mohan13krishna&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-</p>
 
 ### 💝 Thank You for Visiting!
 
