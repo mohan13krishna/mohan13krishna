@@ -185,7 +185,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mohan13krishna&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-  <img src="https://hits.seeyoufan.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohan13krishna&count_bg=%237C3AED&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Hits"/>
 </p>
 
 ### 💝 Thank You for Visiting!
