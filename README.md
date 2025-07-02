@@ -1,18 +1,3 @@
-## 💡 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<details>
-<summary>⚡ Recent Activity</summary>
-
-- 🔥 Pushed new commits to **[Project Name]**
-- ⭐ Starred **[Interesting Repository]**
-- 🐛 Fixed critical bug in **[Repository Name]**
-- 📝 Updated documentation for **[Project Name]**
-- 🤝 Collaborated on **[Open Source Project]**
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><div align="center">
   
