@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 B.Tech in Computer Science & Engineering student at ACE Engineering College (3rd year)
+- 🎓 B.Tech in Computer Science & Engineering student at ACE Engineering College (Final Year)
 - 💻 Passionate about Full Stack Development with a focus on modern web technologies
 - 🤖 Exploring AI/ML and its applications in web development
 - 🚀 Always learning new technologies and methodologies
