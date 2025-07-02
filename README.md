@@ -23,7 +23,7 @@
 
 </div>
 
-## <div align="center">👨‍💻 About Me</div>
+## <div align="left">👨‍💻 About Me</div>
 
 <div align="left">
 
@@ -37,10 +37,8 @@
 
 </div>
 
-<details>
-<summary><div align="center">🎯 My Professional Journey & Goals</div></summary>
-<br>
 
+<summary><div align="left">🎯 My Professional Journey & Goals</div></summary>
 <div align="left">
 
 **Current Focus:**
@@ -57,7 +55,6 @@
 
 </div>
 
-</details>
 
 
 ## <div align="center">🛠️ Tech Arsenal</div>
