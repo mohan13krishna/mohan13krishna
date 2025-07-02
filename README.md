@@ -1,4 +1,20 @@
-<div align="center">
+## 💡 Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<details>
+<summary>⚡ Recent Activity</summary>
+
+- 🔥 Pushed new commits to **[Project Name]**
+- ⭐ Starred **[Interesting Repository]**
+- 🐛 Fixed critical bug in **[Repository Name]**
+- 📝 Updated documentation for **[Project Name]**
+- 🤝 Collaborated on **[Open Source Project]**
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><div align="center">
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Mohan Krishna
 
@@ -14,9 +30,6 @@
   <a href="mailto:mohankrishnathalla6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://portfolio-mohan-krishna.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -25,7 +38,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
 - 🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (Final Year)
 - 💻 **Full Stack Developer** passionate about creating innovative web solutions
@@ -58,34 +71,34 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-### Languages & Core Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css" alt="Languages"/>
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,figma" alt="Frontend"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,redis" alt="Backend"/>
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,vercel" alt="DevOps"/>
-</p>
-
-### AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-</p>
+  
+<table>
+<tr>
+<td align="center" width="20%">
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" alt="Languages" width="200"/>
+</td>
+<td align="center" width="20%">
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" width="200"/>
+</td>
+<td align="center" width="20%">
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" width="200"/>
+</td>
+<td align="center" width="20%">
+<h3>☁️ DevOps</h3>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins" alt="DevOps" width="200"/>
+</td>
+<td align="center" width="20%">
+<h3>🤖 AI/ML</h3>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML" width="80"/>
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -96,7 +109,9 @@
 <div align="center">
   
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&custom_title=Mohan%20Krishna's%20Contribution%20Journey&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area_color=00ff00&title_color=ffffff&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph" width="95%"/>
+
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=mohan13krishna&theme=dark&background=000000&stroke=00ff00&color=00ff00&hide_border=true" alt="3D Contribution Graph" width="95%"/>
 
 ### 🔥 Stats Overview
 <p>
@@ -108,7 +123,9 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=mohan13krishna&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" alt="GitHub Streak" width="95%"/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=discord&no-frame=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" width="100%"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
 </div>
 
@@ -172,22 +189,16 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 💼 Professional
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-krishna-thalla)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 📧 Contact
 [![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankrishnathalla6@gmail.com)
-
-</td>
-<td align="center" width="33%">
-
-### 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/-View_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-mohan-krishna.vercel.app)
 
 </td>
 </tr>
@@ -220,18 +231,12 @@
 
 <div align="center">
 
-```javascript
-const goals2025 = {
-  🎓 graduation: "Complete B.Tech with honors",
-  💼 career: "Land amazing full-stack developer role",
-  🚀 projects: "Launch 3 innovative web applications",
-  🤝 community: "Contribute to 10+ open source repos",
-  📚 learning: "Master cloud architecture & DevOps",
-  🎯 impact: "Help 100+ developers through content"
-};
-
-console.log("Let's make 2025 extraordinary! 🌟");
-```
+- 🎓 **Complete B.Tech with honors** - Finish my degree with excellent grades
+- 💼 **Land amazing full-stack developer role** - Join a dynamic tech company
+- 🚀 **Launch 3 innovative web applications** - Build products that make a difference
+- 🤝 **Contribute to 10+ open source repos** - Give back to the developer community
+- 📚 **Master cloud architecture & DevOps** - Expand my technical expertise
+- 🎯 **Help 100+ developers through content** - Create tutorials and share knowledge
 
 </div>
 
