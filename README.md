@@ -7,6 +7,10 @@
 <br>
 
 <p align="center">
+  <a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohan-krishna-thalla">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -131,9 +135,15 @@
 
 <br>
 
+<p>
+<a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
+  <img src="https://img.shields.io/badge/🌟_View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/mohan13krishna?tab=repositories">
   <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
 </a>
+</p>
 
 </div>
 
@@ -144,6 +154,10 @@
 
 ### 💼 Professional Network
 <p>
+  <a href="https://portfolio-mohan-krishna-thalla.netlify.app/">
+    <img src="https://img.shields.io/badge/-Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohan-krishna-thalla">
     <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
