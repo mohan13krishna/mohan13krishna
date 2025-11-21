@@ -88,7 +88,7 @@ const mohanKrishna: Developer = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6" width="40%"/>
 </p>
 
 <p align="center">
