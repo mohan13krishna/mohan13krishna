@@ -31,7 +31,7 @@ const mohanKrishna: Developer = {
   name: "Mohan Krishna Thalla",
   role: "Full Stack Developer",
   education: "B.Tech CSE @ ACE Engineering College (Final Year)",
-  location: "Vellore, Tamil Nadu",
+  location: "Hyderabad",
   expertise: ["Web Development", "AI/ML", "Cloud Computing", "DevOps"],
   currentFocus: ["Next.js", "AWS", "Docker", "TensorFlow", "System Design"],
   openTo: ["Internships", "Full-time Roles", "Open Source", "Collaborations"]
@@ -88,8 +88,11 @@ const mohanKrishna: Developer = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=darkhub&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" width="98%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=darkhub&no-frame=true&no-bg=false&column=7&row=1&margin-w=10" width="98%"/>
 </p>
 
 <p align="center">
