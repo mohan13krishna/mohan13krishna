@@ -14,7 +14,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28"/> About Me
+## 👨‍💻 About Me
 
 ```typescript
 interface Developer {
@@ -31,7 +31,7 @@ const mohanKrishna: Developer = {
   name: "Mohan Krishna Thalla",
   role: "Full Stack Developer",
   education: "B.Tech CSE @ ACE Engineering College (Final Year)",
-  location: "Hyderabad",
+  location: "Vellore, Tamil Nadu",
   expertise: ["Web Development", "AI/ML", "Cloud Computing", "DevOps"],
   currentFocus: ["Next.js", "AWS", "Docker", "TensorFlow", "System Design"],
   openTo: ["Internships", "Full-time Roles", "Open Source", "Collaborations"]
@@ -49,66 +49,54 @@ const mohanKrishna: Developer = {
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> Technology Stack
+## 🛠️ Technology Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Frontend**  
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></code>
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&perline=4" />
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-**Backend & Database**  
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+### Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,firebase,java&perline=4" />
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-**DevOps & Tools**  
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></code>
+### DevOps & AI/ML
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,tensorflow,pytorch&perline=4" />
+</p>
 
 </td>
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan13krishna&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan13krishna&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&height=165&custom_title=Contribution%20Activity" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=darkhub&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&custom_title=Contribution%20Activity" width="98%"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> Featured Work
+## 🚀 Featured Work
 
 <div align="center">
 
@@ -120,13 +108,13 @@ const mohanKrishna: Developer = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28"/> 2025 Roadmap
+## 🎯 2025 Roadmap
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Technical Goals**
+**💼 Technical Goals**
 - ✅ Master advanced AWS & cloud architecture
 - ✅ Build 3 production-grade AI-powered apps
 - ✅ Contribute to 10+ open-source projects
@@ -136,7 +124,7 @@ const mohanKrishna: Developer = {
 </td>
 <td width="50%" valign="top">
 
-**💼 Career Goals**
+**🏆 Career Goals**
 - ✅ Secure full-stack developer position
 - ✅ Complete B.Tech with distinction
 - ✅ Mentor 50+ aspiring developers
@@ -147,7 +135,7 @@ const mohanKrishna: Developer = {
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28"/> Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
