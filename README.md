@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Mohan%20Krishna%20Thalla&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Final%20Year%20CSE&descSize=14&descAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohan%20Krishna%20Thalla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE&descSize=16&descAlignY=52" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;AI+%26+ML+Integration+Expert+%F0%9F%A4%96;Cloud+Native+Solutions+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=700&lines=Building+Intelligent%2C+Scalable+Web+Applications+%F0%9F%9A%80;AI+%26+ML+Engineer+with+Full+Stack+Expertise+%F0%9F%A4%96;91%25+NLP+Accuracy+%7C+300%2B+Day+Coding+Streak+%F0%9F%94%A5;Cloud+Native+%7C+AWS+%7C+Docker+%7C+System+Design+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <p>
 <a href="https://portfolio-mohan-krishna-thalla.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
@@ -14,40 +14,78 @@
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  education: string;
-  location: string;
-  expertise: string[];
-  currentFocus: string[];
-  openTo: string[];
-}
-
-const mohanKrishna: Developer = {
+const mohanKrishna = {
   name: "Mohan Krishna Thalla",
-  role: "Full Stack Developer",
+  role: "AI Engineer & Full Stack Developer",
   education: "B.Tech CSE @ ACE Engineering College (Final Year)",
-  location: "Hyderabad",
-  expertise: ["Web Development", "AI/ML", "Cloud Computing", "DevOps"],
+  location: "Hyderabad, India",
+  expertise: ["AI/ML", "Full Stack Web Development", "Cloud Computing", "DevOps"],
   currentFocus: ["Next.js", "AWS", "Docker", "TensorFlow", "System Design"],
-  openTo: ["Internships", "Full-time Roles", "Open Source", "Collaborations"]
+  openTo: ["Internships", "Full-time Roles", "Open Source", "Collaborations"],
+  tagline: "Building intelligent, scalable, production-ready systems 🚀"
 };
 ```
 
-<details>
-<summary><b>🎯 Professional Highlights</b></summary>
-<br>
+> 🧠 **AI/ML Engineer & Full Stack Developer** building intelligent, scalable, and production-ready systems. Passionate about solving real-world problems using Machine Learning, Cloud, and Modern Web Technologies.
 
-**🔹 Current Focus:** Building production-grade full-stack applications with AI/ML capabilities  
-**🔹 Tech Stack:** MERN, Next.js, Python, TensorFlow, AWS, Docker  
-**🔹 Passion:** Creating scalable solutions that solve real-world problems  
-**🔹 Goal:** Contributing to innovative projects and growing as a software engineer  
+---
 
-</details>
+## 🚧 Currently Building
+
+- 🧠 AI-powered productivity tools with NLP & generative AI
+- ☁️ Cloud-native full stack applications on AWS
+- 📦 Scalable backend systems with microservices architecture
+
+---
+
+## 📌 Impact Highlights
+
+| 🏆 Achievement | 📊 Metric |
+|:---|:---|
+| 🚀 AutoPRD — AI-powered PRD generation | ~91% NLP extraction accuracy |
+| ⚡ Job-packing algorithm optimization | 25% reduction in computation time |
+| 🤖 AI chatbot with real-time quiz generation | Secure, adaptive learning engine |
+| 🔥 Consistent Coding Streak | 500+ Days (LeetCode + CodeChef) |
+| 🏗️ Production-grade projects shipped | 15+ real-world applications |
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 [AutoPRD](https://github.com/mohan13krishna)
+> AI-powered Product Requirements Document generation platform
+- NLP-based extraction with **~91% accuracy**
+- Scalable REST APIs, PostgreSQL backend, JWT authentication
+- **Stack:** Python · NLP · PostgreSQL · FastAPI · React
+
+### 🤖 [GenEDxAI](https://github.com/mohan13krishna)
+> Adaptive AI chatbot for intelligent learning
+- Secure real-time backend with dynamic quiz engine
+- Personalized learning paths with ML-driven recommendations
+- **Stack:** Node.js · TensorFlow · WebSockets · MongoDB
+
+### 🔒 [Network Security Analyzer](https://github.com/mohan13krishna)
+> Web-based security assessment and vulnerability detection tool
+- Real-time threat analysis and reporting dashboard
+- **Stack:** Python · React · Flask · Docker
+
+### 🏥 [DocReserve](https://github.com/mohan13krishna)
+> Doctor appointment booking and management system
+- Full-featured booking flow with notifications and admin panel
+- **Stack:** MERN Stack · Tailwind CSS · Firebase
+
+<div align="center">
+
+[→ Explore All Projects](https://github.com/mohan13krishna?tab=repositories) &nbsp;|&nbsp; [→ View Portfolio](https://portfolio-mohan-krishna-thalla.netlify.app/)
+
+</div>
+
+---
 
 ## 🛠️ Technology Stack
 
@@ -80,6 +118,31 @@ const mohanKrishna: Developer = {
 </tr>
 </table>
 
+---
+
+## 💡 Core Strengths
+
+- 🧠 **AI/ML Model Development** — NLP, TensorFlow, real-world deployment
+- ⚙️ **Backend Architecture & APIs** — REST, GraphQL, microservices, auth systems
+- 🌐 **Full Stack Web Applications** — MERN, Next.js, production-grade delivery
+- 🗄️ **Database Design & Optimization** — MongoDB, PostgreSQL, MySQL, Firebase
+- ☁️ **Cloud Deployment (AWS)** — EC2, S3, Lambda, Docker, CI/CD pipelines
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+| Platform | Achievement |
+|:---:|:---:|
+| 🟡 LeetCode | 🔥 300+ Day Streak · Consistent Problem Solver |
+| 🟤 CodeChef | 🔥 300+ Day Streak · Regular Contest Participant |
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -88,28 +151,10 @@ const mohanKrishna: Developer = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6" width="40%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohan13krishna&theme=darkhub&no-frame=true&no-bg=false&column=7&row=1&margin-w=10" width="98%"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&custom_title=Contribution%20Activity" width="98%"/>
 </p>
 
-## 🚀 Featured Work
-
-<div align="center">
-
-| **Category** | **Description** | **Action** |
-|:---:|:---:|:---:|
-| 🌐 **Full-Stack Apps** | Production-ready web applications with modern architecture | [View Portfolio →](https://portfolio-mohan-krishna-thalla.netlify.app/) |
-| 🤖 **AI/ML Projects** | Machine learning solutions for real-world problems | [Explore Repos →](https://github.com/mohan13krishna?tab=repositories) |
-| 🔧 **Open Source** | Contributing to developer tools and libraries | [See Contributions →](https://github.com/mohan13krishna) |
-
-</div>
+---
 
 ## 🎯 2025 Roadmap
 
@@ -119,7 +164,7 @@ const mohanKrishna: Developer = {
 
 **💼 Technical Goals**
 - ✅ Master advanced AWS & cloud architecture
-- ✅ Build 3 production-grade AI-powered apps
+- ✅ Build 3+ production-grade AI-powered apps
 - ✅ Contribute to 10+ open-source projects
 - ✅ Achieve industry certifications
 - ✅ Deep dive into system design patterns
@@ -128,7 +173,7 @@ const mohanKrishna: Developer = {
 <td width="50%" valign="top">
 
 **🏆 Career Goals**
-- ✅ Secure full-stack developer position
+- ✅ Secure AI Engineer / Full Stack Developer role
 - ✅ Complete B.Tech with distinction
 - ✅ Mentor 50+ aspiring developers
 - ✅ Speak at tech meetups/conferences
@@ -137,6 +182,8 @@ const mohanKrishna: Developer = {
 </td>
 </tr>
 </table>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -151,7 +198,7 @@ const mohanKrishna: Developer = {
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<sub>💡 **Found something useful?** Star ⭐ my repositories to show your support!</sub>
+⭐ **If you're excited about AI + Full Stack projects — let's connect and build something amazing!** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
