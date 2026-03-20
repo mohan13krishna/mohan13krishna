@@ -192,15 +192,11 @@ const mohanKrishna = {
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan13krishna&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=FF6600&currStreakLabel=39FF14&sideLabels=39FF14&dates=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=6" width="32%"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&theme=github-compact&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&custom_title=Contribution%20Activity" width="98%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=6" width="32%"/>
 </p>
 
 ---
