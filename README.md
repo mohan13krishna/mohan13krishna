@@ -10,7 +10,7 @@
   <a href="mailto:mohankrishnathalla6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mohan13krishna&style=flat-square&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=mohan13krishna&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -26,8 +26,8 @@ const mohanKrishna = {
   education   : "B.Tech CSE @ ACE Engineering College (Final Year)",
   location    : "Hyderabad, India",
   expertise   : ["AI/ML", "Full Stack Development", "Cloud Computing", "Data Science"],
-  currentWork : ["AutoPRD — AI PRD Generator", "APEXIQ — Autonomous F1 Race Predictor"],
-  kaggle      : "Team PNxA (Phoenix Algorithms) — Active Competition Team",
+  currentWork : ["AutoPRD - AI PRD Generator", "APEXIQ - Autonomous F1 Race Predictor"],
+  kaggle      : "Team PNxA (Phoenix Algorithms) - Active Competition Team",
   openTo      : ["Full-time", "Internships", "Remote", "Freelance", "Open Source"],
   achievements: ["Starstruck", "Pull Shark", "Pair Extraordinaire", "YOLO", "Quickdraw"],
   tagline     : "Turning data and ideas into intelligent, scalable systems 🚀"
@@ -40,14 +40,11 @@ const mohanKrishna = {
 
 | 🏆 Achievement | 📊 Metric |
 |:---|:---|
-| 🚀 AutoPRD — AI-powered PRD & Jira automation | ~91% NLP extraction accuracy |
-| 🏎️ APEXIQ — Autonomous F1 Race Predictor | Self-learning AI agent (WIP) |
+| 🚀 AutoPRD - AI-powered PRD & Jira automation | ~91% NLP extraction accuracy |
+| 🏎️ APEXIQ - Autonomous F1 Race Predictor | Self-learning AI agent (WIP) |
 | 📊 Kaggle Competitions | 10+ competitions · Team PNxA (Phoenix Algorithms) |
 | 🔥 Competitive Coding | 500+ Day Streak · LeetCode + CodeChef |
 | 🏗️ Production-grade projects shipped | 15+ real-world applications |
-| 📈 GitHub Contributions | **8,741 total** contributions since Aug 2023 |
-| 🔥 GitHub Current Streak | **369 days** (Mar 17 – Mar 20, 2025) |
-| 🏆 GitHub Longest Streak | **426 days** (Jan 1 – Mar 1, 2025) |
 | 🏅 GitHub Achievements | Starstruck · Pull Shark · Pair Extraordinaire · YOLO · Quickdraw |
 
 ---
@@ -62,8 +59,8 @@ const mohanKrishna = {
 
 ---
 
-### 🏎️ APEXIQ — AI F1 Race Predictor *(Active)*
-> Self-autonomous AI system for Formula 1 race outcome prediction — combining telemetry data, race history, weather, and live strategy simulation.
+### 🏎️ APEXIQ - AI F1 Race Predictor *(Active)*
+> Self-autonomous AI system for Formula 1 race outcome prediction - combining telemetry data, race history, weather, and live strategy simulation.
 - Autonomous agent architecture with real-time race strategy modeling
 - ML-driven lap time, pit-stop, and podium prediction engine
 - **Stack:** `Python` · `TensorFlow` · `FastAPI` · `React` · `Docker`
@@ -83,7 +80,7 @@ const mohanKrishna = {
 
 ---
 
-## 📊 Kaggle — Team PNxA (Phoenix Algorithms)
+## 📊 Kaggle - Team PNxA (Phoenix Algorithms)
 
 > Active Kaggle competition team focused on structured data, regression, classification, and advanced ML pipelines.
 
@@ -145,11 +142,11 @@ const mohanKrishna = {
 
 ## 💡 Core Strengths
 
-- 🧠 **AI/ML & NLP** — Model development, BERT, TensorFlow, real-world deployment, Kaggle competitions
-- ⚙️ **Backend Architecture** — REST APIs, FastAPI, Node.js, microservices, auth systems
-- 🌐 **Full Stack Development** — MERN, Next.js 14, production-grade delivery
-- 📊 **Data Science & Feature Engineering** — EDA, regression, classification, gradient boosting
-- ☁️ **Cloud & DevOps** — AWS (EC2, S3, Lambda), Docker, CI/CD pipelines
+- 🧠 **AI/ML & NLP** - Model development, BERT, TensorFlow, real-world deployment, Kaggle competitions
+- ⚙️ **Backend Architecture** - REST APIs, FastAPI, Node.js, microservices, auth systems
+- 🌐 **Full Stack Development** - MERN, Next.js 14, production-grade delivery
+- 📊 **Data Science & Feature Engineering** - EDA, regression, classification, gradient boosting
+- ☁️ **Cloud & DevOps** - AWS (EC2, S3, Lambda), Docker, CI/CD pipelines
 
 ---
 
@@ -194,16 +191,16 @@ const mohanKrishna = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan13krishna&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan13krishna&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=FF6600&currStreakLabel=39FF14&sideLabels=39FF14&dates=c9d1d9" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&theme=github-compact&hide_border=true&bg_color=0d1117&color=38B2AC&line=38B2AC&point=ffffff&area=true&area_color=38B2AC&custom_title=Contribution%20Activity" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan13krishna&theme=github-compact&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&custom_title=Contribution%20Activity" width="98%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38B2AC&text_color=c9d1d9&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=6" width="32%"/>
 </p>
 
 ---
@@ -253,9 +250,9 @@ const mohanKrishna = {
 <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
-> 💬 *"Turning data and ideas into intelligent, scalable systems — one commit at a time."*
+> 💬 *"Turning data and ideas into intelligent, scalable systems - one commit at a time."*
 
-⭐ **If you're excited about AI, Full Stack, or Data Science — let's connect and build something amazing!** 🚀
+⭐ **If you're excited about AI, Full Stack, or Data Science - let's connect and build something amazing!** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
