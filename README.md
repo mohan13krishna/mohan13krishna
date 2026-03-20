@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohan%20Krishna%20Thalla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohan%20Krishna%20Thalla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Final%20Year%20CSE&descSize=16&descAlignY=52" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38B2AC&center=true&vCenter=true&width=700&lines=Building+Intelligent%2C+Scalable+Web+Applications+%F0%9F%9A%80;AI+%26+ML+Engineer+with+Full+Stack+Expertise+%F0%9F%A4%96;91%25+NLP+Accuracy+%7C+300%2B+Day+Coding+Streak+%F0%9F%94%A5;Cloud+Native+%7C+AWS+%7C+Docker+%7C+System+Design+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
