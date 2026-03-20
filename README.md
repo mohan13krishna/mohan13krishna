@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/mohan-krishna-thalla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mohankrishnathalla6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/mohan13krishna"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=mohan13krishna&style=flat-square&color=blueviolet"/>
 </p>
 
@@ -45,6 +45,9 @@ const mohanKrishna = {
 | 📊 Kaggle Competitions | 10+ competitions · Team PNxA (Phoenix Algorithms) |
 | 🔥 Competitive Coding | 500+ Day Streak · LeetCode + CodeChef |
 | 🏗️ Production-grade projects shipped | 15+ real-world applications |
+| 📈 GitHub Contributions | **8,741 total** contributions since Aug 2023 |
+| 🔥 GitHub Current Streak | **369 days** (Mar 17 – Mar 20, 2025) |
+| 🏆 GitHub Longest Streak | **426 days** (Jan 1 – Mar 1, 2025) |
 | 🏅 GitHub Achievements | Starstruck · Pull Shark · Pair Extraordinaire · YOLO · Quickdraw |
 
 ---
@@ -71,37 +74,6 @@ const mohanKrishna = {
 > Adaptive AI chatbot revolutionizing GenZ learning with personalized, conversational education.
 - ML-driven recommendations, dynamic quiz engine, real-time WebSocket backend
 - **Stack:** `Python` · `TensorFlow` · `Node.js` · `WebSockets` · `MongoDB`
-
----
-
-### 🏦 [Lendify](https://github.com/mohan13krishna/Lendify)
-> Full-stack loan management platform with role-based dashboards for customers, bankers, and admins.
-- Streamlines the entire lending lifecycle with secure auth and audit trails
-- **Stack:** `Node.js` · `Express` · `MySQL` · `JavaScript`
-
----
-
-### 📊 [DynoCollect](https://github.com/mohan13krishna/DynoCollect)
-> Revolutionary data collection platform built during **VISWAM.AI internship** — multi-format uploads, secure auth, and scalable storage.
-- **Stack:** `Python` · `Flask` · `MongoDB` · `Docker`
-
----
-
-### 🔒 [Network Security Analyzer](https://github.com/mohan13krishna/Network-Security-Analyzer)
-> Web-based security assessment tool for real-time threat detection, vulnerability scanning, and reporting dashboards.
-- **Stack:** `Python` · `Flask` · `React` · `Docker`
-
----
-
-### 🏥 [DocReserve](https://github.com/mohan13krishna/DocReserve)
-> Comprehensive doctor appointment booking system with patient management, doctor scheduling, and hospital administration panels.
-- **Stack:** `MERN Stack` · `Tailwind CSS` · `Firebase`
-
----
-
-### 🔗 [Progress Tracker](https://github.com/mohan13krishna/Progress-Tracker)
-> Full-stack internship management platform with GitLab OAuth, role-based dashboards, and MongoDB.
-- **Stack:** `Next.js 14` · `NextAuth.js` · `Tailwind CSS` · `MongoDB`
 
 <div align="center">
 
@@ -130,7 +102,7 @@ const mohanKrishna = {
 
 <div align="center">
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Team%20PNxA%20%7C%20Phoenix%20Algorithms-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohan13krishna)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Team%20PNxA%20%7C%20Phoenix%20Algorithms-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohankrishnathalla)
 
 </div>
 
@@ -185,13 +157,35 @@ const mohanKrishna = {
 
 <div align="center">
 
-| 🏅 Badge | 📝 Description |
-|:---:|:---|
-| ⭐ Starstruck | Created repositories with many stars |
-| 🦈 Pull Shark | Opened pull requests that have been merged |
-| 👥 Pair Extraordinaire | Co-authored commits on merged pull requests |
-| 🎯 YOLO | Merged a pull request without a review |
-| ⚡ Quickdraw | Closed an issue or PR within 5 minutes of opening |
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px"/><br/>
+<b>Starstruck</b><br/>
+<sub>Created a repo with many stars</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px"/><br/>
+<b>Pull Shark</b><br/>
+<sub>Opened PRs that got merged</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px"/><br/>
+<b>Pair Extraordinaire</b><br/>
+<sub>Co-authored merged commits</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px"/><br/>
+<b>YOLO</b><br/>
+<sub>Merged a PR without review</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px"/><br/>
+<b>Quickdraw</b><br/>
+<sub>Closed issue/PR in under 5 min</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -256,7 +250,7 @@ const mohanKrishna = {
 <a href="https://linkedin.com/in/mohan-krishna-thalla"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohankrishnathalla6@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.kaggle.com/mohan13krishna"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 > 💬 *"Turning data and ideas into intelligent, scalable systems — one commit at a time."*
