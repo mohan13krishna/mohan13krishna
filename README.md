@@ -15,10 +15,10 @@
 
 ## About Me
 
-B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build intelligent, production-ready systems — from AI pipelines to full stack web apps.
+B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build intelligent, production-ready systems - from AI pipelines to full stack web apps.
 
 - 🚀 Currently working on **AutoPRD** (AI PRD Generator) & **APEXIQ** (Autonomous F1 Race Predictor)
-- 🏆 Active Kaggle competitor with **Team PNxA (Phoenix Algorithms)** — 10+ competitions
+- 🏆 Active Kaggle competitor with **Team PNxA (Phoenix Algorithms)** - 10+ competitions
 - 🔥 500+ day competitive coding streak on LeetCode + CodeChef
 - 🌍 Open to **Full-time · Internships · Remote · Freelance**
 
@@ -28,7 +28,7 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🚀 **AutoPRD** | AI-powered PRD & Jira automation — ~91% NLP accuracy | Python · FastAPI · NLP · React · PostgreSQL |
+| 🚀 **AutoPRD** | AI-powered PRD & Jira automation - ~91% NLP accuracy | Python · FastAPI · NLP · React · PostgreSQL |
 | 🏎️ **APEXIQ** | Autonomous F1 race predictor with live strategy modeling | Python · TensorFlow · FastAPI · React · Docker |
 | 🤖 **[GenEDxAI](https://github.com/mohan13krishna/GenEDxAI)** | Adaptive AI chatbot for personalized GenZ education | Python · TensorFlow · Node.js · WebSockets · MongoDB |
 
@@ -52,6 +52,8 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 | Playground S6 E1 | [Predicting Student Test Scores](https://github.com/mohan13krishna/Predicting-Student-Test-Scores) |
 | Playground S5 E12 | [Diabetes Prediction](https://github.com/mohan13krishna/Diabetes-Prediction-Challenge) |
 | Playground S5 E11 | [Predicting Loan Payback](https://github.com/mohan13krishna/Predicting-Loan-Payback) |
+| Playground S5 E10 | [Predicting Road Accident Risk](https://github.com/mohan13krishna/Predicting-Road-Accident-Risk) |
+| Playground S5 E9 | [Predicting the Beats per Minute of Songs](https://github.com/mohan13krishna/Predicting-the-Beats-per-Minute-of-Songs) |
 | Advanced Regression | [House Prices](https://github.com/mohan13krishna/House-Prices-Advanced-Regression-Techniques) |
 
 ---
@@ -62,8 +64,11 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 
 [![mohan13krishna's Magine Stats](https://magine.cloud/api/github-card?user=mohan13krishna&theme=github)](https://magine.cloud/api/github-card?user=mohan13krishna&theme=github)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohan13krishna&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan13krishna&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=6" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohan13krishna&theme=github_dark" width="98%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohan13krishna&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohan13krishna&theme=github_dark&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohan13krishna&theme=github_dark" width="32%"/>
 
 </div>
 
