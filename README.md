@@ -28,7 +28,7 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🚀 **AutoPRD** | AI-powered PRD & Jira automation — ~91% NLP accuracy | Python · FastAPI · NLP · React · PostgreSQL |
+| 🚀 **AutoPRD** | AI-powered PRD & Jira automation - ~91% NLP accuracy | Python · FastAPI · NLP · React · PostgreSQL |
 | 🏎️ **APEXIQ** | Autonomous F1 race predictor with live strategy modeling | Python · TensorFlow · FastAPI · React · Docker |
 | 🤖 **[GenEDxAI](https://github.com/mohan13krishna/GenEDxAI)** | Adaptive AI chatbot for personalized GenZ education | Python · TensorFlow · Node.js · WebSockets · MongoDB |
 
