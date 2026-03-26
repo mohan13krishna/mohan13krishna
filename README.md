@@ -15,10 +15,10 @@
 
 ## About Me
 
-B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build intelligent, production-ready systems — from AI pipelines to full stack web apps.
+B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build intelligent, production-ready systems - from AI pipelines to full stack web apps.
 
 - 🚀 Currently working on **AutoPRD** (AI PRD Generator) & **APEXIQ** (Autonomous F1 Race Predictor)
-- 🏆 Active Kaggle competitor with **Team PNxA (Phoenix Algorithms)** — 10+ competitions
+- 🏆 Active Kaggle competitor with **Team PNxA (Phoenix Algorithms)** - 10+ competitions
 - 🔥 500+ day competitive coding streak on LeetCode + CodeChef
 - 🌍 Open to **Full-time · Internships · Remote · Freelance**
 
@@ -44,7 +44,7 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 
 ---
 
-## Kaggle — Team PNxA
+## Kaggle - Team PNxA
 
 | Competition | Topic |
 |:---|:---|
@@ -52,6 +52,8 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 | Playground S6 E1 | [Predicting Student Test Scores](https://github.com/mohan13krishna/Predicting-Student-Test-Scores) |
 | Playground S5 E12 | [Diabetes Prediction](https://github.com/mohan13krishna/Diabetes-Prediction-Challenge) |
 | Playground S5 E11 | [Predicting Loan Payback](https://github.com/mohan13krishna/Predicting-Loan-Payback) |
+| Playground S5 E10 | [Predicting Road Accident Risk](https://github.com/mohan13krishna/Predicting-Road-Accident-Risk) |
+| Playground S5 E9 | [Predicting the Beats per Minute of Songs](https://github.com/mohan13krishna/Predicting-the-Beats-per-Minute-of-Songs) |
 | Advanced Regression | [House Prices](https://github.com/mohan13krishna/House-Prices-Advanced-Regression-Techniques) |
 
 ---
@@ -70,8 +72,8 @@ B.Tech CSE final year student at ACE Engineering College, Hyderabad. I build int
 
 <div align="center">
 
-*"Turning data and ideas into intelligent, scalable systems — one commit at a time."*
+*"Turning data and ideas into intelligent, scalable systems - one commit at a time."*
 
-⭐ If you're into AI, Full Stack, or Data Science — let's connect and build something great!
+⭐ If you're into AI, Full Stack, or Data Science - let's connect and build something great!
 
 </div>
