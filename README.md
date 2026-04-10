@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohan Krishna Thalla
-**AI Engineer · Full Stack Developer · Kaggle Competitor**
+**AI Engineer · Full Stack Developer · Kaggle Competitor** 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-mohan-krishna-thalla.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-krishna-thalla)
