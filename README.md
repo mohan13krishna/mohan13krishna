@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # Mohan Krishna Thalla
 **AI Engineer · Full Stack Developer · Kaggle Competitor** 
 
